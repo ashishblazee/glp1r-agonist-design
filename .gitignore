@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+
+# Environment & Temp
+.licenses/
+predicted_structures/
+*.zip
+*.log
+.DS_Store
+Thumbs.db
